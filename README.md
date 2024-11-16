@@ -1,5 +1,5 @@
 # Web_Scraping
-
+![Shanshui GIF](https://github.com/bojunz/Web_Scraping/blob/main/Crawl_Amazon2.gif)
 # Key Tricks for Successful Selenium Web Scraping
 
 Web scraping using Selenium can be complex, especially when dealing with modern websites that use anti-scraping techniques and dynamic content. Here are some key tricks to ensure smooth execution and avoid common pitfalls.
